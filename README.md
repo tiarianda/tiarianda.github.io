@@ -2,8 +2,7 @@
 ---
 ## Data Visualization using Python
 Ini contoh visualisasi data dengan menggunakan bahasa Python.
-[![](https://img.shields.io/badge/Google_ColabRun_on_Google_Colab-orange?logo=googlecolab&style=flatsquare)](https://colab.research.google.com/drive/1tg87SZHDmgXRq
-0SZreiLZ3t13XWmBWBr#scrollTo=0S155rWmI1JA&line=4&uniqifier=1)
+[![](https://img.shields.io/badge/Google_ColabRun_on_Google_Colab-orange?logo=googlecolab&style=flatsquare)](https://drive.google.com/drive/folders/1rp2JlDTk4S8ZHfstiXKZvZf_hTzNq_pZ?usp=sharing)
 ---
 ## Use-Case of Data Science in Retail for Recommendation System
 Berikut adalah portofolio saya
